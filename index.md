@@ -19,19 +19,21 @@
 		<li> Ingenieur en informatique EMI </li>
 </ul>
 <h2>Mes compétences</h2>
-<ul>
+<p>
+	<ul>
 		<li>maitrise de html et css </li>
 		<li> maitrise de lanage c , python et java </li>
 		<li> des bases en comtabilité et marketing</li>
 		<li> bonnnes connaissances en comptabilté</li>
 	</ul>
-
+</p>
 <h2>Mon expérience</h2>
-
+<p>
 	<ul>
 		<li>stage de 3 mois chez ocp </li>
 		<li> cheft de projet de realisation d'un systeme de gestion d'une banque ;</li>
 	</ul>
+</p>	
 <h2> Loisirs et Centres d'intêret</h2>
 
 	<ul>
