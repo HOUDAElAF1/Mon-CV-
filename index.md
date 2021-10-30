@@ -35,9 +35,10 @@
 	</ul>
 </p>	
 <h2> Loisirs et Centres d'intêret</h2>
-
+<p>
 	<ul>
 		<li>Sport</li>
 		<li> Gaming </li>
 		<li> Literature</li>
 	</ul>
+</p>
